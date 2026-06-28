@@ -1,0 +1,8 @@
+Model,random,wsls,q-learning,assymetric q-learning,q-learning with stickiness,q-learning dual-alpha with stickiness,hmm,stage
+random,0,20,24,54,56,98,192,PRL-OT
+wsls,172,0,146,167,185,189,192,PRL-OT
+q-learning,168,46,0,187,165,184,192,PRL-OT
+assymetric q-learning,138,25,5,0,130,170,192,PRL-OT
+q-learning with stickiness,136,7,27,62,0,187,192,PRL-OT
+q-learning dual-alpha with stickiness,94,3,8,22,5,0,192,PRL-OT
+hmm,0,0,0,0,0,0,0,PRL-OT

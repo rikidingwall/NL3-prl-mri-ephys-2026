@@ -1,0 +1,8 @@
+Model,random,wsls,q-learning,assymetric q-learning,q-learning with stickiness,q-learning dual-alpha with stickiness,hmm,stage
+random,0,23,52,55,42,53,89,PRL-Probe2
+wsls,73,0,73,77,83,86,96,PRL-Probe2
+q-learning,44,23,0,78,51,63,92,PRL-Probe2
+assymetric q-learning,41,19,18,0,34,57,92,PRL-Probe2
+q-learning with stickiness,54,13,45,62,0,87,96,PRL-Probe2
+q-learning dual-alpha with stickiness,43,10,33,39,9,0,96,PRL-Probe2
+hmm,7,0,4,4,0,0,0,PRL-Probe2

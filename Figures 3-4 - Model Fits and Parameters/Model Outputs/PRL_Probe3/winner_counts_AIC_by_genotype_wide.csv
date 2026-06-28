@@ -1,0 +1,3 @@
+genotype,random,wsls,q-learning,assymetric q-learning,q-learning with stickiness,q-learning dual-alpha with stickiness,hmm
+NL3,1,29,6,6,4,2,
+WT,,29,10,3,4,2,
